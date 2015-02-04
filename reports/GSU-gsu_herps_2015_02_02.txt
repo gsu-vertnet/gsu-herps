@@ -1,0 +1,135 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 574
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 1
+	Date: 2015-01-04 ; Times: 2
+	Date: 2015-01-07 ; Times: 6
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-10 ; Times: 2
+	Date: 2015-01-13 ; Times: 9
+	Date: 2015-01-14 ; Times: 2
+	Date: 2015-01-16 ; Times: 2
+	Date: 2015-01-19 ; Times: 6
+	Date: 2015-01-20 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-26 ; Times: 2
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-30 ; Times: 2
+	Date: 2015-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"georgia" specificepithet:pulchra genus:graptemys" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 1
+	Query: "genus:Plethodon specificepithet: petraeus" ; Times: 2
+	Query: "stateprovince:"Florida" institutioncode:GSU" ; Times: 1
+	Query: "hemidactylus turcicus georgia" ; Times: 1
+	Query: "Rhinophrynus dorsalis united states" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "hermaphrodite" ; Times: 2
+	Query: "class:amphibia stateprovince:Georgia county:Fulton" ; Times: 1
+	Query: "Brown Thrasher year >= 2006 year <= 2015 mappable:1" ; Times: 1
+	Query: "bufo woodhousei" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Georgia"" ; Times: 2
+	Query: "Crotalus Adamanteus year >= 2000 year <= 2015" ; Times: 2
+	Query: "alligator mississippiensis georgia" ; Times: 1
+	Query: "ambystoma mabeei" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:cyanogenys genus:Sceloporus" ; Times: 2
+	Query: "stateprovince:"georgia" genus:graptemys" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"South Carolina"" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "rhinophrynus dorsalis and texas" ; Times: 1
+	Query: "genus:Plethodon specificepithet:petraeus mappable:0" ; Times: 1
+	Query: "Janice" ; Times: 2
+	Query: "genus:Plethodon specificepithet:petraeus" ; Times: 3
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Rhinophrynus dorsalis texas" ; Times: 1
+	Query: "alligator mississippiensis south carolina" ; Times: 1
+	Query: "rhinophrynus dorsalis and texas stateprovince:"texas"" ; Times: 1
+	Query: "rhinophrynus dorsalis stateprovince:"texas"" ; Times: 1
+	Query: "black rat snake" ; Times: 1
+	Query: "(lampropeltis getula alabama)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 445 download events in this period)
+Total number of records downloaded: 1981 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1847
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: India ; Times: 1
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-07 ; Times: 1
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+	Date: 2015-01-29 ; Times: 1
+	Date: 2015-01-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "stateprovince:"South Carolina" class:amphibia (Abbeville OR Anderson OR Cherokee OR Chester OR Chesterfield OR Edgefield OR Fairfield OR Greenville OR Greenwood OR Kershaw OR Lancaster OR Lexington OR Laurens OR McCormick OR Newberry OR Oconee OR Pickens OR Richland OR Saluda OR Spartanburg OR Union OR York) year >= 1750 year <= 2015" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "rhinophrynus dorsalis stateprovince:"texas"" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "county:"Pickens" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "Crotalus horridus country:"United States" mappable:1" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "stateprovince:"kentucky" class:amphibia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 102
+Total number of records retrieved from searches: 1127
+Number of download events that retrieved data from the resource: 21
+Total number of records downloaded: 1981
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 143
+Total number of records retrieved from searches: 1701
+Number of download events that retrieved data from the resource: 194
+Total number of records downloaded: 148617
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
