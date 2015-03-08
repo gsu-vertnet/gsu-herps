@@ -1,0 +1,147 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 658
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 3
+	Country: United States ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 3
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-05 ; Times: 6
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 3
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-15 ; Times: 2
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-22 ; Times: 7
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "regina rigida Florida" ; Times: 5
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "Plestiodon reynoldsi" ; Times: 1
+	Query: "regina rigida" ; Times: 3
+	Query: "amphibia county:"Cimarron"" ; Times: 2
+	Query: "reptilia county:"Cimarron"" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "micrurus fulvius year >= 1950 year <= 2015" ; Times: 1
+	Query: "(corn snake)" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 3
+	Query: "stateprovince:"new jersey" specificepithet:melanoleucus genus:pituophis" ; Times: 1
+	Query: "county:"Osceola" stateprovince:"Florida" class:Reptilia" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "farancia south carolina" ; Times: 1
+	Query: "Mark here" ; Times: 1
+	Query: "Coluber constrictor Nevada" ; Times: 1
+	Query: "country:"Panama" genus:Drymobius" ; Times: 3
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 2
+	Query: "stereochilus" ; Times: 1
+	Query: "sistrurus south carolina" ; Times: 2
+	Query: "Regina rigida stateprovince:"Florida"" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 326 download events in this period)
+Total number of records downloaded: 10379 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6820
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 2
+	Country: France ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 6
+	Date: 2015-02-07 ; Times: 4
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-10 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 6
+	Date: 2015-02-13 ; Times: 7
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-25 ; Times: 3
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "hylidae" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "specificepithet:catesbeianus" ; Times: 1
+	Query: "Ambystoma Tigrinum mappable:1" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Plestiodon reynoldsi" ; Times: 1
+	Query: "desmognathus marmoratus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:catesbeiana" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "oxybelis aeneus" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Crotalus type:specimen year >= 1990 year <= 2015 mappable:1" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 1
+	Query: "thamnophis couchi" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "specificepithet:sphenocephala" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 138
+Total number of records retrieved from searches: 1785
+Number of download events that retrieved data from the resource: 61
+Total number of records downloaded: 12360
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 179
+Total number of records retrieved from searches: 2359
+Number of download events that retrieved data from the resource: 234
+Total number of records downloaded: 158996
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
