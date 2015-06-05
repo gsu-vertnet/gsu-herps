@@ -1,0 +1,172 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 118
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 3
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 2
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 4
+	Date: 2015-05-26 ; Times: 6
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corn snake" ; Times: 1
+	Query: "Uma notata county:"Riverside"" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "Lampropeltis triangulum triangulum distance(location,geopoint(33.95308100044415,-79.1015625))<100000" ; Times: 1
+	Query: "palmer stateprovince:"north carolina" class:reptilia" ; Times: 1
+	Query: "recordedby:harrigan" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Alabama)" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "clemmys field museum" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: ""spinifera" stateprovince:"Texas"" ; Times: 1
+	Query: "10270 genus:bufo" ; Times: 1
+	Query: "redmond farancia" ; Times: 2
+	Query: "(juvenile or subadult)" ; Times: 1
+	Query: "clemmys guttata field museum" ; Times: 2
+	Query: "Eurycea aquatica" ; Times: 1
+	Query: "Rana palustris distance(location,geopoint(34.79929502577762,-82.81768798828125))<100000" ; Times: 1
+	Query: "gyalopion canum arizona" ; Times: 1
+	Query: "bufo alvarius" ; Times: 5
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:lepidus genus:crotalus" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "county:"morgan" stateprovince:"georgia"" ; Times: 1
+	Query: "county:"val verde" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "Amphiuma pholeter" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 976 download events in this period)
+Total number of records downloaded: 7550 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6800
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 9
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 19
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 16
+	Date: 2015-05-26 ; Times: 7
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 3
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave stateprovince:"Georgia" year >= 1700 year <= 2015" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "rana sphenocephala" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "cave stateprovince:"Tennessee" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Rana berlandieri class:Amphibia AND (NOT group NOT x NOT forreri)" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Desmognathus apalachicolae" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "Plestiodon" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Amphiuma pholeter" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 194
+Total number of records retrieved from searches: 1961
+Number of download events that retrieved data from the resource: 145
+Total number of records downloaded: 23037
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 235
+Total number of records retrieved from searches: 2535
+Number of download events that retrieved data from the resource: 318
+Total number of records downloaded: 169673
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
