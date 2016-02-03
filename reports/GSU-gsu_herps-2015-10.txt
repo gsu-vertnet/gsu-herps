@@ -1,0 +1,167 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 828
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-15 ; Times: 4
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-20 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "order:caudata county:&#34;jackson&#34; stateprovince:&#34;Florida&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "sternotherus minor peltifer" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "ophisaurus mimicus" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "pseudotriton montanus south carolina" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Stereochilus Bulloch" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Coluber constrictor stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "crotalus lepidus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:egregius genus:Plestiodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "uma inornata" ; Times: 1
+	Query: "gopher tortoises" ; Times: 3
+	Query: "Stereochilus GSU" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Aneides aeneus Georgia" ; Times: 2
+	Query: "wilmington AND Elaphe obsoleta type:specimen" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "plestiodon egregius similis" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis mappable:1 stateprovince:Florida county:Marion" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "Crotalus massachusetts" ; Times: 1
+	Query: "&#34;Virginia valeriae valeriae&#34;" ; Times: 2
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Storeria stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:bauri genus:Kinosternon" ; Times: 2
+	Query: "genus:coluber stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Hemidactylium stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 2
+	Query: "eurycea guttolineata stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Rhadinaea Florida" ; Times: 1
+	Query: "genus:Lampropeltis family:Colubridae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:bufo stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "institutioncode:GSU" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "heterodon marion" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 823 download events in this period)
+Total number of records downloaded: 4190
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 7
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 2
+	Query: "apalone ferox" ; Times: 2
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "flavissimus specificepithet:montanus genus:Pseudotriton" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "tantilla coronata" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "schencki specificepithet:ruber genus:Pseudotriton" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Stereochilus GSU" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "aspidoscelis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "specificepithet:striatus genus:Pseudobranchus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Sceloporus occidentalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "class:reptilia county:&#34;sierra&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
