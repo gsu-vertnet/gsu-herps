@@ -1,0 +1,124 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 1274
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-28 ; Times: 10
+	Date: 2016-02-21 ; Times: 7
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-08 ; Times: 6
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo quercicus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Collier&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Long&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Long&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Gyrinophilus porphyriticus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus adamanteus georgia" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 2
+	Query: "rana sphenocephala stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Heterodon simus (Georgia)" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "farancia erytrogramma georgia" ; Times: 2
+	Query: "genus:Cemophora county:&#34;New Hanover&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Heterodon simus (Florida)" ; Times: 4
+	Query: "ambystoma mabeei stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Tattnall&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Plethodon county:&#34;Yancey&#34; (mitchell)" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Wheeler&#34; stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus georgia" ; Times: 2
+	Query: "gopher tortoise" ; Times: 1
+	Query: "farancia erytrogramma south carolina" ; Times: 1
+	Query: "Ambystoma cingulatum (Georgia)" ; Times: 4
+	Query: "genus:Cemophora county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Notophthalmus perstriatus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Collier&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Glades&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum (Carolina)" ; Times: 2
+	Query: "Hyla andersonii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Heterodon simus (North Carolina)" ; Times: 1
+	Query: "Rana capito" ; Times: 1
+	Query: "farancia erytrogramma north carolina" ; Times: 3
+	Query: "anolis carolinensis stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 2
+	Query: "genus:Micrurus county:&#34;hardee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Notophthalmus perstriatus (Georgia)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 512 download events in this period)
+Total number of records downloaded: 3099
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "Agkistrodon contortrix and georgia" ; Times: 2
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "genus:Apalone stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+
+
+End of report.
