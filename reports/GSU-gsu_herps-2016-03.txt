@@ -1,0 +1,61 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 998
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 5
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana sphenocephalus" ; Times: 2
+	Query: "(Chatham) institutioncode:GSU" ; Times: 2
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(Effingham) institutioncode:GSU" ; Times: 4
+	Query: "11054" ; Times: 1
+	Query: "Tantilla Georgia Southern" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 230 download events in this period)
+Total number of records downloaded: 2017
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spea bombifrons" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "(Effingham) institutioncode:GSU" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+
+
+End of report.
