@@ -1,0 +1,135 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1092
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 69
+	Country: Belgium ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-12 ; Times: 16
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-07 ; Times: 5
+	Date: 2016-04-20 ; Times: 5
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-28 ; Times: 5
+	Date: 2016-04-26 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-05 ; Times: 4
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-11 ; Times: 6
+	Date: 2016-04-27 ; Times: 2
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphiopus holbrookii stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:savannah" ; Times: 4
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;38386" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "georgia southern" ; Times: 3
+	Query: "specificepithet:annulatum genus:ambystoma" ; Times: 2
+	Query: "Gastrophryne carolinensis stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Seminatrix pygaea cyclas" ; Times: 1
+	Query: "reptilia skeletal remains" ; Times: 1
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 4
+	Query: "Macrochelys temmincki" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "sceloporus undulatus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.80478291957245,-82.8753662109375))&lt;38385.64878672652" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:berlandieri stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "lampropeltis elapsoides" ; Times: 2
+	Query: "hyla avivoca alabama" ; Times: 1
+	Query: "aspidoscelis institutioncode:GSU" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Rana sphenocephala stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 8
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "elaphe obsoleta houston" ; Times: 1
+	Query: "gsu" ; Times: 1
+	Query: "Crotalus horridus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Plestiodon sex:male" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;100000" ; Times: 1
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "(Agkistrodon contortrix) distance(location,geopoint(34.92197103616377,-83.507080078125))&lt;100000" ; Times: 1
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1312 download events in this period)
+Total number of records downloaded: 20071
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+
+
+End of report.
