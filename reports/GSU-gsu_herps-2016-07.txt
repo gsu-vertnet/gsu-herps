@@ -1,0 +1,118 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 913
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Portugal ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-26 ; Times: 4
+	Date: 2016-07-20 ; Times: 14
+	Date: 2016-07-21 ; Times: 6
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-19 ; Times: 3
+	Date: 2016-07-18 ; Times: 4
+	Date: 2016-07-08 ; Times: 11
+	Date: 2016-07-09 ; Times: 4
+	Date: 2016-07-29 ; Times: 10
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-06 ; Times: 6
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Sternotherus minor peltifer" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "class:Reptilia county:&#34;Barnwell&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 4
+	Query: "22406" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "black rat snake" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; institutioncode:GSU" ; Times: 2
+	Query: "class:Reptilia county:&#34;Orangeburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Colleton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Fairfield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 5
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 1
+	Query: "farancia erytrogramma" ; Times: 5
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "28573c0a-b833-41b1-9999-56c6b9bce519" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Graptemys Murray" ; Times: 4
+	Query: "family:Colubridae stateprovince:&#34;Alabama&#34; AND (NOT thamnophis NOT Diadophis ) year &gt;= 1975 month &gt;= 5 month &lt;= 9" ; Times: 1
+	Query: "class:Amphibia county:&#34;Marion&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "class:Reptilia county:&#34;Horry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 3
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Rana sphenocephalus" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudemys concinna 1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Allendale&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "class:Amphibia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "gbifdatasetid:28573c0a-b833-41b1-9999-56c6b9bce519" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bamberg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Trachemys scripta 1" ; Times: 2
+	Query: "class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1219 download events in this period)
+Total number of records downloaded: 442
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "elaphe guttata" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Aneides" ; Times: 1
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+
+
+End of report.
