@@ -1,0 +1,128 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 1376
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 8
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 9
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 4
+	Date: 2016-08-20 ; Times: 15
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "Anolis institutioncode:GSU" ; Times: 1
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34; (Sistrurus) year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 9
+	Query: "Triangulum stateprovince:&#34;North carolina&#34;" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "order:anura locality:Redding" ; Times: 1
+	Query: "pituophis melanoleucus mugitus" ; Times: 1
+	Query: "trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "pituophis stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 2
+	Query: "trachemys scripta scripta south carolina" ; Times: 1
+	Query: "Graham county sistrurus" ; Times: 1
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "desmognathus auriculatus north carolina" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 2
+	Query: "21820" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "institutioncode:GSU" ; Times: 1
+	Query: "Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:GSU" ; Times: 1
+	Query: "Diadophis institutioncode:GSU" ; Times: 3
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 7
+	Query: "Horridus stateprovince:&#34;North carolina&#34;" ; Times: 2
+	Query: "regina stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Virginia valeriae stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "stereochilus north carolina" ; Times: 1
+	Query: "county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "rana virgatipes north carolina" ; Times: 2
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34; (Sistrurus) year &gt;= 1800 year &lt;= 2016" ; Times: 1
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 2
+	Query: "stereochilus" ; Times: 2
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "pituophis mugitus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 924 download events in this period)
+Total number of records downloaded: 6596
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-18 ; Times: 6
+	Date: 2016-08-24 ; Times: 4
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-30 ; Times: 9
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Bufo canorus" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Contia" ; Times: 1
+
+
+End of report.
