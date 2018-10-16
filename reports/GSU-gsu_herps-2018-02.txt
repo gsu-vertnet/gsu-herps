@@ -1,0 +1,205 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 2002
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 112
+	Country: Canada ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-04 ; Times: 9
+	Date: 2018-02-21 ; Times: 42
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-23 ; Times: 6
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 9
+	Date: 2018-02-26 ; Times: 6
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-10 ; Times: 8
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 6
+	Date: 2018-02-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lampropeltis getula stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "hemidactylus turcicus georgia" ; Times: 1
+	Query: "&#34;ambystoma laterale&#34; massachusetts" ; Times: 1
+	Query: "vntype:specimen catalognumber:6689 institutioncode:GSU" ; Times: 2
+	Query: "genus:Necturus family:Proteidae stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6681 institutioncode:GSU" ; Times: 1
+	Query: "genus:drymarchon (male OR female) hassex:1" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 2
+	Query: "specificepithet:capito genus:Rana stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6355 institutioncode:GSU" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-laticeps" ; Times: 3
+	Query: "vntype:specimen catalognumber:6409 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:DEIROCHELYS (male OR female) hassex:1" ; Times: 1
+	Query: "genus:micrurus stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "vntype:specimen catalognumber:6535 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6293 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1995" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-fasciatus" ; Times: 1
+	Query: "vntype:specimen catalognumber:6663 institutioncode:GSU" ; Times: 1
+	Query: "genus:drymarchon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:24248 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6066 institutioncode:GSU" ; Times: 2
+	Query: "Macrochelys temminckii mappable:1" ; Times: 7
+	Query: "vntype:specimen catalognumber:6342 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "genus:gopherus polyphemus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:pseudobranchus stateprovince:&#34;georgia&#34;" ; Times: 4
+	Query: "specificepithet:egregius genus:plestiodon hassex:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:6320 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen catalognumber:6347 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen catalognumber:6360 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "vntype:specimen catalognumber:6267 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:clarkii genus:nerodia hassex:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6302 institutioncode:GSU" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-inexpectatus" ; Times: 3
+	Query: "vntype:specimen catalognumber:6338 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla stateprovince:&#34;Carolina&#34;" ; Times: 1
+	Query: "genus:pituophis &#34;florida&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6696 institutioncode:GSU" ; Times: 1
+	Query: "recordedby:sarg" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "vntype:specimen catalognumber:6432 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:laticeps genus:plestiodon hassex:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:6449 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6484 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6545 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6367 institutioncode:GSU" ; Times: 1
+	Query: "order:Caudata county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6536 institutioncode:GSU" ; Times: 1
+	Query: "genus:alligator (male OR female) hassex:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:6305 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "vntype:specimen catalognumber:24253 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6614 institutioncode:GSU" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "GSU carinatus" ; Times: 1
+	Query: "heterodon simus" ; Times: 1
+	Query: "vntype:specimen catalognumber:6384 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:temminckii genus:Macrochelys stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:drymarchon &#34;georgia&#34;" ; Times: 5
+	Query: "vntype:specimen catalognumber:6678 institutioncode:GSU" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bradford&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "institutioncode:gsu" ; Times: 1
+	Query: "vntype:specimen catalognumber:6478 institutioncode:GSU" ; Times: 1
+	Query: "genus:gyalopion hassex:1" ; Times: 1
+	Query: "Diploglossus monotropis ecuador" ; Times: 1
+	Query: "specificepithet:guttata genus:clemmys hassex:1" ; Times: 1
+	Query: "genus:macrochelys (male OR female) hassex:1" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "vntype:specimen catalognumber:24249 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "vntype:specimen catalognumber:6312 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6516 institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6638 institutioncode:GSU" ; Times: 1
+	Query: "genus:pseudobranchus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6698 institutioncode:GSU" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Rhadinaea (male OR female) hassex:1" ; Times: 1
+	Query: "Board class:Reptilia country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "genus:masticophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:6294 institutioncode:GSU" ; Times: 1
+	Query: "indigo snake" ; Times: 2
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "genus:micrurus county:&#34;aiken&#34; stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "specificepithet:egregius family:Scincidae stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "swimming pool institutioncode:GSU" ; Times: 1
+	Query: "vntype:specimen catalognumber:6645 institutioncode:GSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1892 download events in this period)
+Total number of records downloaded: 1997
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 6
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "Ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "nerodia fasciata pictiventris" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+
+
+End of report.
