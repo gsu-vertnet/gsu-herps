@@ -1,0 +1,147 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 3705
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 152
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-06 ; Times: 8
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-17 ; Times: 8
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-27 ; Times: 19
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-01 ; Times: 4
+	Date: 2018-03-02 ; Times: 7
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 13
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 38
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-23 ; Times: 8
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Anura institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:carinatus institutioncode:GSU" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 5
+	Query: "genus:ascaphus county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "catalognumber:8512 institutioncode:GSU" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 2
+	Query: "Crotalus horridus stateprovince:&#34;Alabama&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon county:&#34;Emanuel&#34; stateprovince:&#34;Georgia&#34; year &gt;= 1980 year &lt;= 1980 month &gt;= 4 month &lt;= 44 institutioncode:GSU" ; Times: 3
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;berkeley&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 6
+	Query: "tantilla Maricopa" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla county:&#34;Scotland&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:Hemidactylus specificepithet:turcicus" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "genus:sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Contorted texas" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 5
+	Query: "genus:drymarchon county:&#34;bacon&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius country:&#34;Panama&#34;" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 5
+	Query: "specificepithet:porphyriticus genus:Gyrinophilus county:&#34;Pickens&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;Georgia&#34;" ; Times: 8
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 5
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 6
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "specificepithet:ferreus county:&#34;del norte&#34;" ; Times: 1
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 2
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 6
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 6
+	Query: "genus:farancia county:&#34;jasper&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Tantilla maricopa" ; Times: 1
+	Query: "Trimorphodon biscutatus lambda" ; Times: 1
+	Query: "solenopsis" ; Times: 1
+	Query: "tortoises" ; Times: 2
+	Query: "21570" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; fieldnumber:94.13003 institutioncode:GSU" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Georgia&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;South Carolina&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Crotalus adamanteus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Salvadora specificepithet:deserticola" ; Times: 5
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:coluber county:&#34;bacon&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Tantilla specificepithet:relicta" ; Times: 2
+	Query: "county:&#34;bacon&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:micrurus stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "georgia hemidactylus turcicus" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 2
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:Rana specificepithet:capito" ; Times: 5
+	Query: "genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 3
+	Query: "tantilla maricopa" ; Times: 1
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 5
+	Query: "Lampropeltis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Drymarchon stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1284 download events in this period)
+Total number of records downloaded: 6385
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-25 ; Times: 5
+	Date: 2018-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen order:Anura institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:carinatus institutioncode:GSU" ; Times: 2
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;United States&#34; mappable:1" ; Times: 1
+
+
+End of report.
