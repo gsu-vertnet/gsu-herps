@@ -1,0 +1,183 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 5748
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 184
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 11
+	Date: 2018-01-18 ; Times: 18
+	Date: 2018-01-07 ; Times: 4
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-29 ; Times: 10
+	Date: 2018-01-24 ; Times: 28
+	Date: 2018-01-10 ; Times: 6
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-01 ; Times: 5
+	Date: 2018-01-20 ; Times: 16
+	Date: 2018-01-21 ; Times: 7
+	Date: 2018-01-04 ; Times: 9
+	Date: 2018-01-23 ; Times: 7
+	Date: 2018-01-16 ; Times: 37
+	Date: 2018-01-17 ; Times: 11
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-12 ; Times: 8
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Under rock class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "genus:drymarchon stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "Under carpet country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "(wright) institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 3
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;Del Norte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Lampropeltis holbrooki stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "(harper) institutioncode:GSU" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "GSU-herp-reptilia" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "institutioncode:gsu" ; Times: 3
+	Query: "GSU-herp" ; Times: 2
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon" ; Times: 2
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Under log class:Amphibia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Under log class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Hemidactylus turcicus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton stateprovince:&#34;georgia&#34; year &gt;= 1960 mappable:1" ; Times: 1
+	Query: "Rana capito hassex:1" ; Times: 2
+	Query: "Camden county Ambystoma" ; Times: 1
+	Query: "specificepithet:ocmulgee genus:plethodon stateprovince:&#34;georgia&#34; year &gt;= 1960 mappable:1" ; Times: 2
+	Query: "genus:Bufo county:&#34;Walker&#34;" ; Times: 2
+	Query: "Under board country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 3
+	Query: "hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:canum genus:Gyalopion stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Viperidae institutioncode:GSU" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Tantilla institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:Occipitomaculata genus:Storeria stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "sceloporus undulatus alabama" ; Times: 1
+	Query: "Under rock class:Reptilia country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 22
+	Query: "Wood pile" ; Times: 29
+	Query: "Under tin reptilia country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 3
+	Query: "vntype:specimen genus:Plethodon stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; (Union ) institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;georgia&#34; year &gt;= 1960 mappable:1" ; Times: 1
+	Query: "specificepithet:chattahoochee OR glutinosus genus:Plethodon stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; year &gt;= 1977 year &lt;= 1977" ; Times: 1
+	Query: "genus:heterodon simus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:drymarchon county:&#34;wayne&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Plestiodon egregius year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Storeria stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "opposum" ; Times: 2
+	Query: "GSU-herp-reptilia-scincidae" ; Times: 1
+	Query: "gsu herp" ; Times: 1
+	Query: "genus:Rhadinaea stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-inexpectatus" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:GSU" ; Times: 1
+	Query: "ambystoma mabeei" ; Times: 3
+	Query: "Under carpet year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Eurycea catalognumber:17892" ; Times: 3
+	Query: "Drymarchon corais" ; Times: 1
+	Query: "(in house) institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:Carinatus genus:Leiocephalus hassex:1 mappable:1" ; Times: 1
+	Query: "specificepithet:striatus genus:pseudobranchus stateprovince:&#34;georgia&#34; year &gt;= 1960 mappable:1" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-laticeps" ; Times: 2
+	Query: "Breeding pond country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "(hook) institutioncode:GSU" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:savannah genus:plethodon" ; Times: 1
+	Query: "institutioncode:GSU" ; Times: 3
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1990" ; Times: 2
+	Query: "PLESTIODON FASCIATUS jasper" ; Times: 1
+	Query: "Under tin country:&#34;United States&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:GSU" ; Times: 2
+	Query: "stateprovince:&#34;north carolina&#34; Crotalus horridus" ; Times: 3
+	Query: "Lampropeltis nigra" ; Times: 4
+	Query: "specificepithet:punctatus genus:Necturus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:chattahoochee OR glutinosus genus:Plethodon stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; institutioncode:GSU" ; Times: 19
+	Query: "Notophthalmus viridescens and georgia" ; Times: 2
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-fasciatus" ; Times: 2
+	Query: "18139" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1398 download events in this period)
+Total number of records downloaded: 3909
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-25 ; Times: 9
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:muscosa" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Ambystoma annulatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:carinatus genus:leiocephalus country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "GSU-herp-reptilia-scincidae-plestiodon-fasciatus" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
