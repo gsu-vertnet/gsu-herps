@@ -1,0 +1,137 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 894
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 9
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 5
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-13 ; Times: 8
+	Date: 2018-07-11 ; Times: 5
+	Date: 2018-07-10 ; Times: 6
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-16 ; Times: 7
+	Date: 2018-07-31 ; Times: 9
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-18 ; Times: 5
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tennessee Ophisaurus" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Farancia abacura county:&#34;pender&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Farancia county:&#34;Pender&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 9
+	Query: "23651" ; Times: 1
+	Query: "spirit board" ; Times: 1
+	Query: "genus:Desmognathus county:&#34;Jackson&#34; stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "specificepithet:sphenocephalus genus:rana" ; Times: 1
+	Query: "lifestage:adult ambystoma annulatum" ; Times: 2
+	Query: "farancia Liberty county" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "Liberty county regina" ; Times: 2
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "Jefferson county heterodon" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 14
+	Query: "americanus clarke county" ; Times: 1
+	Query: "Agalychnis spurrelli" ; Times: 2
+	Query: "county:&#34;Johnson&#34; heterodon" ; Times: 1
+	Query: "Lampropeltis calligaster county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "heterodon simus Florida" ; Times: 1
+	Query: "family:Sirenidae (egg)" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 8
+	Query: "Sean Barry" ; Times: 3
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "clemmys institutioncode:GSU" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "specificepithet:pipiens genus:rana stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "ambystoma annulatum adult" ; Times: 1
+	Query: "specificepithet:ruber genus:pseudotriton county:&#34;washington&#34;" ; Times: 1
+	Query: "Florida heterodon simus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "class:Amphibia county:&#34;Osceola&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 977 download events in this period)
+Total number of records downloaded: 1146
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: South Africa ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 5
+	Date: 2018-07-11 ; Times: 5
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 3
+	Date: 2018-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon serratus" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "crotalus lepidus texas" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:spurrelli genus:Agalychnis" ; Times: 1
+	Query: "order:Squamata hasmass:1" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "egg family:Plethodontidae" ; Times: 1
+	Query: "Agalychnis spurrelli" ; Times: 1
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "family:Sirenidae (egg)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "egg order:Caudata" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+
+
+End of report.
