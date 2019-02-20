@@ -1,0 +1,321 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 582
+Number of records retrieved in searches: 5782
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 573
+	Country: Sweden ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-23 ; Times: 11
+	Date: 2019-01-18 ; Times: 5
+	Date: 2019-01-14 ; Times: 6
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-30 ; Times: 7
+	Date: 2019-01-17 ; Times: 14
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-02 ; Times: 30
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-01 ; Times: 76
+	Date: 2019-01-07 ; Times: 194
+	Date: 2019-01-06 ; Times: 5
+	Date: 2019-01-05 ; Times: 143
+	Date: 2019-01-04 ; Times: 36
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-27 ; Times: 3
+	Date: 2019-01-16 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:6614 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6384 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6711 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:24251 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6521 institutioncode:GSU" ; Times: 2
+	Query: "stateprovince:&#34;Georgia&#34; recordedby:Stevenson year &gt;= 2000 year &lt;= 2019" ; Times: 3
+	Query: "Reptilia Arkansas ouachita" ; Times: 3
+	Query: "catalognumber:24246 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6389 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6701 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6403 institutioncode:GSU" ; Times: 2
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "catalognumber:6698 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6448 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:attenuatus genus:ophisaurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:6294 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6455 institutioncode:GSU" ; Times: 2
+	Query: "Ascaphus Siskiyou" ; Times: 3
+	Query: "catalognumber:6384 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6721 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6678 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6686 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6425 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6410 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6680 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6689 institutioncode:GSU" ; Times: 6
+	Query: "catalognumber:6401 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6350 institutioncode:GSu" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Georgia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:6066 institutioncode:GSU" ; Times: 3
+	Query: "catalognumber:6294 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6697 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6726 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6284 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6733 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6303 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6302 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6446 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6681 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:24247 institutioncode:GSU" ; Times: 2
+	Query: "Reptilia Georgia telfair" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "catalognumber:6458 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6505 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6509 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6688 institutioncode:GSU" ; Times: 2
+	Query: "Necturus alabamensis" ; Times: 2
+	Query: "family:Anguidae institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:6363 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6267 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6343 institutioncode:GSU" ; Times: 2
+	Query: "15059" ; Times: 1
+	Query: "catalognumber:6671 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:24248 institutioncode:GSU" ; Times: 6
+	Query: "catalognumber:6695 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6302 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6655 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6641 institutioncode:GSU" ; Times: 2
+	Query: "monotropis" ; Times: 1
+	Query: "catalognumber:6558 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6429 institutioncode:GSU" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 6
+	Query: "catalognumber:6672 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:scutatum genus:Hemidactylium stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:6581 institutioncode:GSU" ; Times: 2
+	Query: "genus:pseudobranchus stateprovince:&#34;georgia&#34;" ; Times: 26
+	Query: "catalognumber:24863 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:24245 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6320 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:6422 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:6706 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6313 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6453 institutioncode:GSU" ; Times: 3
+	Query: "catalognumber:6409 institutioncode:GSU" ; Times: 4
+	Query: "specificepithet:capito family:ranidae institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:6596 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6516 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6663 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6677 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6486 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6323 institutioncode:GSu" ; Times: 3
+	Query: "catalognumber:6372 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6360 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6342 institutioncode:GSU" ; Times: 2
+	Query: "22239" ; Times: 1
+	Query: "catalognumber:6320 institutioncode:GSu" ; Times: 3
+	Query: "catalognumber:6510 institutioncode:GSU" ; Times: 2
+	Query: "ambystoma maculatum north carolina" ; Times: 1
+	Query: "catalognumber:6454 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6687 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6645 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6683 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:capito family:Ranidae institutioncode:GSU" ; Times: 1
+	Query: "Reptilia Georgia jones" ; Times: 3
+	Query: "Amphibia Georgia telfair" ; Times: 2
+	Query: "specificepithet:flagellum genus:masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:capito family:ranidae stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "catalognumber:6745 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6494 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6360 institutioncode:GSu" ; Times: 2
+	Query: "Clemmys Georgia" ; Times: 10
+	Query: "catalognumber:6299 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6724 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6654 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 7
+	Query: "catalognumber:6544 institutioncode:GSU" ; Times: 7
+	Query: "catalognumber:6298 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6703 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "catalognumber:6452 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6407 institutioncode:GSu" ; Times: 2
+	Query: "Amphibia Georgia coffee" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;Georgia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:6546 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6293 institutioncode:GSU" ; Times: 6
+	Query: "catalognumber:6329 institutioncode:GSU" ; Times: 2
+	Query: "20371 class: amphibia" ; Times: 1
+	Query: "catalognumber:6355 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6640 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:24249 institutioncode:GSU" ; Times: 6
+	Query: "catalognumber:6349 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6447 institutioncode:GSU" ; Times: 2
+	Query: "warreni" ; Times: 1
+	Query: "catalognumber:6421 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Carolina&#34;" ; Times: 2
+	Query: "catalognumber:6304 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6682 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6305 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6305 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6638 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6676 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6657 institutioncode:GSU" ; Times: 2
+	Query: "Reptilia Georgia coffee" ; Times: 2
+	Query: "catalognumber:6675 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6355 institutioncode:GSu" ; Times: 2
+	Query: "Reptilia Georgia jasper" ; Times: 4
+	Query: "stateprovince:&#34;Georgia&#34; recordedby:Stevenson" ; Times: 3
+	Query: "catalognumber:6526 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6473 institutioncode:GSU" ; Times: 2
+	Query: "georgia southern rana" ; Times: 1
+	Query: "catalognumber:6367 institutioncode:GSu" ; Times: 3
+	Query: "catalognumber:24864 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6743 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6424 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:6702 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6484 institutioncode:GSU" ; Times: 10
+	Query: "stateprovince:&#34;Florida&#34; (extenuata)" ; Times: 1
+	Query: "Clemmys south carolina" ; Times: 1
+	Query: "catalognumber:6301 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6395 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6536 institutioncode:GSU" ; Times: 4
+	Query: "Reptilia south carolina orangeburg" ; Times: 1
+	Query: "catalognumber:6432 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6367 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "elaphe columbia" ; Times: 3
+	Query: "catalognumber:6712 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6353 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6402 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6289 institutioncode:GSU" ; Times: 2
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "catalognumber:6430 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6692 institutioncode:GSU" ; Times: 2
+	Query: "adamanteus north carolina" ; Times: 1
+	Query: "catalognumber:6696 institutioncode:GSU" ; Times: 6
+	Query: "catalognumber:6589 institutioncode:GSU" ; Times: 2
+	Query: "opposum" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Deirochelys" ; Times: 4
+	Query: "catalognumber:6311 institutioncode:GSU" ; Times: 2
+	Query: "ambystoma mabeei" ; Times: 1
+	Query: "specificepithet:ferreus genus:Aneides county:&#34;del norte&#34;" ; Times: 1
+	Query: "catalognumber:6497 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6535 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6705 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6725 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6529 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6545 institutioncode:GSU" ; Times: 6
+	Query: "catalognumber:6317 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6385 institutioncode:GSU" ; Times: 2
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "catalognumber:6312 institutioncode:GSU" ; Times: 2
+	Query: "Reptilia Georgia butts" ; Times: 1
+	Query: "catalognumber:6419 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Georgia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "gyalopion canum" ; Times: 1
+	Query: "catalognumber:6347 institutioncode:GSu" ; Times: 2
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "catalognumber:6450 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6720 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6512 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6707 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6423 institutioncode:GSU" ; Times: 2
+	Query: "class:reptilia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "catalognumber:6306 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6644 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6744 institutioncode:GSU" ; Times: 4
+	Query: "Uma inornata" ; Times: 1
+	Query: "catalognumber:6449 institutioncode:GSU" ; Times: 5
+	Query: "catalognumber:6351 institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:6679 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6347 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6731 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6418 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6507 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6478 institutioncode:GSU" ; Times: 9
+	Query: "fulvius north carolina" ; Times: 1
+	Query: "catalognumber:6312 institutioncode:GSu" ; Times: 2
+	Query: "catalognumber:6699 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6456 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6282 institutioncode:GSU" ; Times: 2
+	Query: "Eurycea aquatica" ; Times: 1
+	Query: "catalognumber:6393 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6339 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6408 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6426 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6356 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6338 institutioncode:GSu" ; Times: 3
+	Query: "ambystoma mabeii" ; Times: 1
+	Query: "catalognumber:6451 institutioncode:GSU" ; Times: 2
+	Query: "Eurycea nana" ; Times: 2
+	Query: "catalognumber:6281 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6492 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6361 institutioncode:GSU" ; Times: 2
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "catalognumber:24253 institutioncode:GSU" ; Times: 4
+	Query: "catalognumber:6310 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6722 institutioncode:GSU" ; Times: 4
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "catalognumber:6309 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:6300 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6690 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6338 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6412 institutioncode:GSU" ; Times: 2
+	Query: "Reptilia Texas lamar" ; Times: 1
+	Query: "catalognumber:6582 institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6727 institutioncode:GSU" ; Times: 3
+	Query: "catalognumber:6371 institutioncode:GSU" ; Times: 2
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:6735 institutioncode:GSU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 962 download events in this period)
+Total number of records downloaded: 914
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "siren intermedia" ; Times: 1
+	Query: "Celestus" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+
+
+End of report.
