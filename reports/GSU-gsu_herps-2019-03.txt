@@ -1,0 +1,164 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 1540
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Sweden ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 4
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 4
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 6
+	Date: 2019-03-06 ; Times: 7
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 11
+	Date: 2019-03-18 ; Times: 11
+	Date: 2019-03-19 ; Times: 4
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-02 ; Times: 3
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 21
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-11 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:siren institutioncode:GSU" ; Times: 1
+	Query: "anolis sagrei stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Drymobius stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "gsu lampropeltis elapsoides" ; Times: 1
+	Query: "Rhadinaea flavilata" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Sarpy wildlife refuge" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Starr&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; institutioncode:GSU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amphibia Mississippi scott" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16407 collectioncode:GSU-herp" ; Times: 13
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma stateprovince:&#34;georgia&#34; recordedby:Stevenson collectioncode:GSU-herp" ; Times: 1
+	Query: "institutioncode:gsu" ; Times: 1
+	Query: "fieldnumber:94.13038 institutioncode:GSU" ; Times: 1
+	Query: "Farancia erytrogramma" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Calligaster stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "fieldnumber:94.13031 institutioncode:GSU" ; Times: 2
+	Query: "Agalychnis spurrelli mappable:1" ; Times: 1
+	Query: "Lampropeltis extenuata" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma" ; Times: 1
+	Query: "sarg" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "pond turtles" ; Times: 1
+	Query: "plestiodon egregius institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:16403 collectioncode:GSU-herp" ; Times: 7
+	Query: "genus:Ambystoma county:&#34;Santa cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; country:&#34;United States&#34; year &lt;= 1970" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "genus:anniella county:&#34;contra costa&#34; stateprovince:&#34;california&#34; country:&#34;united states&#34; continent:north america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudemys Macon" ; Times: 1
+	Query: "Hypsiglena ochrorhyncha" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia recordedby:Stevenson year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Pseudacris ornata mappable:1" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "gsu cemophora" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bamberg&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16401 collectioncode:GSU-herp" ; Times: 9
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Alabama montgomery" ; Times: 1
+	Query: "fieldnumber:94.13033 institutioncode:GSU" ; Times: 2
+	Query: "Hyla gratiosa mappable:1" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:28573c0a-b833-41b1-9999-56c6b9bce519" ; Times: 1
+	Query: "class:Reptilia locality:Sarpy stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Trimorphodon lambda" ; Times: 1
+	Query: "Lampropeltis nigra" ; Times: 3
+	Query: "Ambystoma texanum (missouri)" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:longicauda genus:eurycea year &gt;= 1982 year &lt;= 1982" ; Times: 1
+	Query: "genus:micrurus county:&#34;travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1281 download events in this period)
+Total number of records downloaded: 539
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 6
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon serratus" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:carinatus genus:Leiocephalus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 2
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "North Carolina South Toe" ; Times: 2
+	Query: "genus:Crotalus haslength:1" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Necturus" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:ascaphus stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "plethodon punctatus" ; Times: 1
+
+
+End of report.
