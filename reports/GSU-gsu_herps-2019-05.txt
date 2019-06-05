@@ -1,0 +1,121 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 1055
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Unknown ; Times: 3
+	Country: Sweden ; Times: 3
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 12
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-31 ; Times: 8
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-29 ; Times: 2
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-18 ; Times: 10
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;lake kirota&#34;" ; Times: 2
+	Query: "county:&#34;Candler&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ascaphus county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "Ambystoma rocky national" ; Times: 1
+	Query: "9000 specificepithet:capito family:Ranidae institutioncode:GSU" ; Times: 1
+	Query: "anolis carolinensis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Micrurus locality:island" ; Times: 11
+	Query: "Macrochelys temminckii mappable:1" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Heterodon institutioncode:GSU" ; Times: 1
+	Query: "musuem records" ; Times: 1
+	Query: "genus:micrurus locality:island" ; Times: 1
+	Query: "institutioncode:gsu" ; Times: 1
+	Query: "carroll thamnophis" ; Times: 1
+	Query: "Tigrinum Arizona santa cruz" ; Times: 2
+	Query: "larva genus:Siren stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plestiodon egregius institutioncode:GSU" ; Times: 1
+	Query: "Virginia valeriae Georgia" ; Times: 1
+	Query: "Lampropeltis extenuata" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "specificepithet:capito family:Ranidae institutioncode:GSU" ; Times: 1
+	Query: "8958 specificepithet:capito family:Ranidae institutioncode:GSU" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Clarke&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Virginia valeriae chatham" ; Times: 1
+	Query: "plestiodon egregius institutioncode:GSU" ; Times: 1
+	Query: "genus:Heterodon institutioncode:GSU" ; Times: 1
+	Query: "Virginia valeriae georgia" ; Times: 1
+	Query: "lampropeltis extenuata" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Burke&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alabama lampropeltis" ; Times: 8
+	Query: "8992 specificepithet:capito family:Ranidae institutioncode:GSU" ; Times: 1
+	Query: "Celestus warreni" ; Times: 1
+	Query: "genus:macrochelys stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "institutioncode:GSU" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 940 download events in this period)
+Total number of records downloaded: 688
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plestiodon egregius institutioncode:GSU" ; Times: 2
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "Virginia valeriae Georgia" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Rana mappable:1" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Clarke&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "specificepithet:muscosa genus:rana" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "Rana draytonii vntype:specimen" ; Times: 1
+
+
+End of report.
