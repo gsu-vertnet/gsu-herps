@@ -1,0 +1,164 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 2594
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 97
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-23 ; Times: 2
+	Date: 2019-06-19 ; Times: 7
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 51
+	Date: 2019-06-10 ; Times: 11
+	Date: 2019-06-02 ; Times: 2
+	Date: 2019-06-15 ; Times: 4
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-28 ; Times: 3
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 2
+	Query: "genus:Hemidactylium specificepithet:scutatum" ; Times: 1
+	Query: "sternotherus odoratus year &gt;= 1990 year &lt;= 2019" ; Times: 3
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 2
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 1
+	Query: "genus:Cemophora specificepithet:coccinea" ; Times: 1
+	Query: "agkistrodon williamson county" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "specificepithet:capito family:ranidae institutioncode:GSU" ; Times: 1
+	Query: "genus:Pseudobranchus specificepithet:striatus" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Bexar&#34;" ; Times: 2
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:capito" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; (extenuata)" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:reynoldsi" ; Times: 1
+	Query: "Drymarchon corais couperi mappable:1" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:baurii" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "genus:Deirochelys specificepithet:reticularia" ; Times: 1
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Fiji NOT Indonesia NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Rhadinaea specificepithet:flavilata" ; Times: 1
+	Query: "necturus AND virginia" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "Mann AND Island NOT Haiti NOT Marine NOT Fiji NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 1
+	Query: "vntype:specimen specificepithet:coriacea genus:dermochelys (carapace)" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:pholeter" ; Times: 2
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 2
+	Query: "genus:Ophisaurus specificepithet:compressus" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys institutioncode:GSU" ; Times: 1
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 2
+	Query: "lampropeltis Alabama" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Carolina NOT Canada NOT Solomon NOT Hawaii" ; Times: 1
+	Query: "genus:Stereochilus specificepithet:marginatus" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:laticeps" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:calyptratus" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Pender farancia" ; Times: 2
+	Query: "Cemophora coccinea copei" ; Times: 4
+	Query: "genus:Regina specificepithet:septemvittata" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:nigrita" ; Times: 1
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 1
+	Query: "institutioncode:gsu" ; Times: 1
+	Query: "genus:Gyalopion stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:23105" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Drymarchon couperi mappable:1" ; Times: 1
+	Query: "genus:Salvadora specificepithet:deserticola" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "specificepithet:canum genus:Gyalopion stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sternotherus odoratus year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "genus:Tantilla specificepithet:relicta" ; Times: 1
+	Query: "lampropeltis travis county" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Plestiodon specificepithet:anthracinus" ; Times: 1
+	Query: "family:Ranidae county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:egregius" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "Mann AND Island NOT Haiti NOT Carolina NOT Canada NOT Solomon" ; Times: 1
+	Query: "genus:Pseudobranchus specificepithet:axanthus" ; Times: 1
+	Query: "genus:Ophisaurus specificepithet:mimicus" ; Times: 1
+	Query: "genus:Virginia specificepithet:valeriae" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus specificepithet:miliarius" ; Times: 1
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 1
+	Query: "swimming pool institutioncode:GSU" ; Times: 1
+	Query: "genus:Regina specificepithet:alleni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1182 download events in this period)
+Total number of records downloaded: 1461
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-06 ; Times: 6
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "corn snake" ; Times: 2
+	Query: "blue jay" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "specificepithet:scutatum genus:hemidactylium stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "frogs" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "genus:Dermochelys" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "lifestage:juvenile basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "raccoon continent:north america" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Farancia" ; Times: 1
+
+
+End of report.
