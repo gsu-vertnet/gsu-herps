@@ -1,0 +1,104 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 762
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-18 ; Times: 4
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-17 ; Times: 10
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 4
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 1
+	Query: "Pituophis melanoleucus south carolina" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Pituophis melanoleucus georgia" ; Times: 2
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:aestivus genus:opheodrys institutioncode:GSU" ; Times: 1
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 10
+	Query: "Heterodon simus mappable:1" ; Times: 2
+	Query: "genus:Rhinophrynus specificepithet:dorsalis" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "scientificname:Agalychnis spurrelli " ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma county:&#34;Stone&#34; stateprovince:&#34;Missouri&#34;" ; Times: 4
+	Query: "specificepithet:guttata genus:Clemmys institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "class:reptilia county:&#34;Multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "southern zigzag" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "23148" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 985 download events in this period)
+Total number of records downloaded: 980
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-31 ; Times: 3
+	Date: 2019-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "specificepithet:inexpectatus genus:plestiodon" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "specificepithet:laticeps genus:plestiodon" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+
+
+End of report.
