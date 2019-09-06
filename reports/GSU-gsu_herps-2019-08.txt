@@ -1,0 +1,164 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 5162
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 147
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 19
+	Date: 2019-08-09 ; Times: 4
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-08 ; Times: 15
+	Date: 2019-08-15 ; Times: 8
+	Date: 2019-08-14 ; Times: 9
+	Date: 2019-08-13 ; Times: 27
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-27 ; Times: 18
+	Date: 2019-08-10 ; Times: 5
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-23 ; Times: 7
+	Date: 2019-08-20 ; Times: 7
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:61 institutioncode:GSU" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "Gopherus vntype:specimen institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:23885 institutioncode:GSU" ; Times: 2
+	Query: "genus:Plethodon county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "(Notophthalmus) institutioncode:GSU" ; Times: 3
+	Query: "catalognumber:978 institutioncode:GSU" ; Times: 3
+	Query: "genus:Plethodon county:&#34;Hancock&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "catalognumber:23883 institutioncode:GSU" ; Times: 1
+	Query: "genus:Macrochelys stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus county:&#34;Talbot&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "catalognumber:1021 institutioncode:GSU" ; Times: 1
+	Query: "order:Squamata institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "amphibia Macon county georgia" ; Times: 1
+	Query: "catalognumber:168 institutioncode:GSU" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Fulton&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "catalognumber:19366 institutioncode:GSU" ; Times: 3
+	Query: "specificepithet:lateralis genus:Scincella county:&#34;Henry&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 13
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Fayette&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anolis county:&#34;Washington&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:perstriatus" ; Times: 2
+	Query: "specificepithet:erythrogaster genus:Nerodia institutioncode:GSU" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Fulton&#34;" ; Times: 2
+	Query: "genus:Drymarchon institutioncode:GSU" ; Times: 4
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Fulton&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "catalognumber:105 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:222 institutioncode:GSU" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 6
+	Query: "Rana catesbeianus mappable:1" ; Times: 2
+	Query: "specificepithet:calligaster genus:Lampropeltis institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "family:Iguanidae institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Fayette&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "georgia mcintosh drymarchon" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana draytonii" ; Times: 3
+	Query: "21879" ; Times: 1
+	Query: "georgia mcintosh crotalus" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla institutioncode:GSU" ; Times: 1
+	Query: "georgia mcintosh colubridae" ; Times: 2
+	Query: "ambystoma maculatum basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "catalognumber:1527 institutioncode:GSU" ; Times: 1
+	Query: "genus:Desmognathus stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Fulton&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "nerodia institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:1041 institutioncode:GSU" ; Times: 1
+	Query: "Eleutherodactylus institutioncode:GSU" ; Times: 1
+	Query: "Rana Macon county georgia" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:opacum genus:Ambystoma county:&#34;Meriwether&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Plethodon county:&#34;Washington&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "nerodia stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella county:&#34;Cobb&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia institutioncode:GSU" ; Times: 1
+	Query: "amphibia lee county georgia" ; Times: 1
+	Query: "Lampropeltis getula vntype:specimen institutioncode:GSU" ; Times: 1
+	Query: "family:Phrynosomatidae institutioncode:GSU" ; Times: 4
+	Query: "family:GeKKonidae institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:16636 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "crotalus adamanteus south carolina" ; Times: 1
+	Query: "specificepithet:couperi genus:Drymarchon institutioncode:GSU" ; Times: 1
+	Query: "sistrurus south carolina" ; Times: 2
+	Query: "cemophora coccinea south carolina" ; Times: 1
+	Query: "catalognumber:781 institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus county:&#34;Taylor&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Quercus palustris" ; Times: 3
+	Query: "gopherus institutioncode:GSU" ; Times: 2
+	Query: "Walton County drymarchon" ; Times: 1
+	Query: "catalognumber:461 institutioncode:GSU" ; Times: 1
+	Query: "crotalus horridus south carolina" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1034 download events in this period)
+Total number of records downloaded: 1423
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "specificepithet:canorus genus:bufo" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "nerodia stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
