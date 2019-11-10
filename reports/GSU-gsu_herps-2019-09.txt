@@ -1,0 +1,159 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 3628
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 113
+	Country: Brazil ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 8
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-24 ; Times: 7
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 16
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-02 ; Times: 8
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-06 ; Times: 46
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "coleonyx variegatus month &gt;= 9 month &lt;= 11" ; Times: 1
+	Query: "plestiodon fairfax" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Cimarron&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Garlock county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS)" ; Times: 1
+	Query: "specificepithet:monticola genus:desmognathus stateprovince:tennessee year &gt;= 1990" ; Times: 1
+	Query: "family:Phrynosomatidae institutioncode:GSU" ; Times: 3
+	Query: "specificepithet:guttolineata stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Squamata institutioncode:GSU" ; Times: 1
+	Query: "sapelo class:Reptilia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "longicauda warren" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1990" ; Times: 1
+	Query: "genus:Pseudemys institutioncode:GSU" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "hemidactylus georgia" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "sapelo class:Amphibia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:concinna genus:Pseudemys institutioncode:GSU" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 20
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "specificepithet:monticola genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma" ; Times: 1
+	Query: "glutinosus clarke" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "palustris clarke" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "hemidactylus turcicus georgia" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus family:Phrynosomatidae institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cryptobranchus Tennessee" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:egregius genus:Plestiodon institutioncode:GSU" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:annulatum genus:ambystoma stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "plestiodon egregius georgia" ; Times: 1
+	Query: "cryptobranchus" ; Times: 2
+	Query: "specificepithet:tigrinum genus:ambystoma stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "cat institutioncode:GSU" ; Times: 2
+	Query: "genus:Pantherophis stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia institutioncode:GSU" ; Times: 1
+	Query: "Agalychnis spurrelli" ; Times: 1
+	Query: "genus:Stereochilus institutioncode:GSU" ; Times: 2
+	Query: "gbifdatasetid:28573c0a-b833-41b1-9999-56c6b9bce519" ; Times: 2
+	Query: "Drymarchon corais corais mappable:1" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "specificepithet:feriarum genus:Pseudacris institutioncode:GSU" ; Times: 4
+	Query: "Nerodia institutioncode:GSU" ; Times: 2
+	Query: "Lampropeltis floridana" ; Times: 1
+	Query: "specificepithet:Barbouri genus:Graptemys stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1073 download events in this period)
+Total number of records downloaded: 2001
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fuscus genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1990" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:monticola genus:desmognathus stateprovince:&#34;tennessee&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:imitator genus:desmognathus year &gt;= 1970" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus year &gt;= 1960" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+
+
+End of report.
