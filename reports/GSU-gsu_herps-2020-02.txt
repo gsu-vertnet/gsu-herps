@@ -1,0 +1,174 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 3109
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 133
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-02 ; Times: 13
+	Date: 2020-02-03 ; Times: 13
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 18
+	Date: 2020-02-29 ; Times: 3
+	Date: 2020-02-11 ; Times: 17
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 7
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 23
+	Date: 2020-02-17 ; Times: 9
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "aneides Georgia rabun" ; Times: 2
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "Rana draytonii 1" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:GSU" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus county:&#34;jones&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "apalone spinifera emoryi texas" ; Times: 1
+	Query: "clemmys guttata georgia" ; Times: 2
+	Query: "genus:Farancia stateprovince:&#34;Florida&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;South Carolina&#34;" ; Times: 4
+	Query: "county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; institutioncode:GSU" ; Times: 1
+	Query: "Rana draytonii 30" ; Times: 3
+	Query: "Rana draytonii 2014" ; Times: 7
+	Query: "Rana draytonii 2017" ; Times: 7
+	Query: "Rana draytonii 2016" ; Times: 7
+	Query: "mabeei georgia" ; Times: 2
+	Query: "24101" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "stereochilus georgia" ; Times: 6
+	Query: "genus:Eurycea recordedby:Brown" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:clamitans stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "Crotalus vntype:specimen institutioncode:GSU hassex:1" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "JR 18 Pituophis" ; Times: 1
+	Query: "specificepithet:Striatus genus:Pseudobranchus year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:pholeter genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;georgia&#34; country:&#34;united states&#34;" ; Times: 3
+	Query: "specificepithet:cingulatum genus:ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "genus:lampropeltis county:&#34;baldwin&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "14846" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma county:&#34;baldwin&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "reptilia Georgia grand bay" ; Times: 1
+	Query: "Rana draytonii 12" ; Times: 3
+	Query: "Rana draytonii 14" ; Times: 3
+	Query: "Rana draytonii 39" ; Times: 3
+	Query: "Rana draytonii 13" ; Times: 3
+	Query: "specificepithet:guttata stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Rana draytonii 33" ; Times: 3
+	Query: "siren intermedia georgia" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus county:&#34;putnam&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:alligator lifestage:adult preparations:skeleton" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 11
+	Query: "Darien class:Amphibia (Darien)" ; Times: 2
+	Query: "specificepithet:baurii stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "chandler fish camp" ; Times: 1
+	Query: "specificepithet:tigrinum stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Rana locality:swamp lake" ; Times: 1
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "agalychnis spurrelli" ; Times: 2
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "indian rock park" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "spinifera texas" ; Times: 2
+	Query: "gyalopion canum" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "specificepithet:scripta stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "genus:Rana locality:swamp lake country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1023 download events in this period)
+Total number of records downloaded: 1643
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Belgium ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-06 ; Times: 3
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-15 ; Times: 4
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "specificepithet:andersonii family:Hylidae" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Chelonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "siren intermedia georgia" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Crotalus vntype:specimen institutioncode:GSU hassex:1" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
