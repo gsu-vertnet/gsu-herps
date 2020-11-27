@@ -1,0 +1,97 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 1047
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 2
+	Date: 2019-12-24 ; Times: 6
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 3
+	Date: 2019-12-23 ; Times: 6
+	Date: 2019-12-22 ; Times: 12
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Caretta caretta haslength:1" ; Times: 1
+	Query: "Plestiodon reynoldsi" ; Times: 1
+	Query: "Ambystoma mabeei berkeley south carolina" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 2
+	Query: "Ambystoma mabeei jasper south carolina" ; Times: 3
+	Query: "amphibia Georgia stephens" ; Times: 1
+	Query: "family:Dactyloidae county:&#34;Pinellas&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plethodontidae mcintosh georgia" ; Times: 1
+	Query: "fieldnumber:77.6197 institutioncode:GSU" ; Times: 4
+	Query: "Ambystoma mabeei jasper carolina" ; Times: 3
+	Query: "class:Reptilia distance(location,geopoint(30.388861411120605,-87.20508770512714))&lt;15604" ; Times: 1
+	Query: "specificepithet:aeneus genus:aneides stateprovince:&#34;north carolina&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34; (Haines)" ; Times: 1
+	Query: "Pseudacris brimleyi jasper south carolina" ; Times: 1
+	Query: "Pseudacris brimleyi south carolina" ; Times: 1
+	Query: "ambystoma monterey county" ; Times: 1
+	Query: "desmognathus wrighti georgia" ; Times: 1
+	Query: "amphibia georgia lumpkin" ; Times: 2
+	Query: "24368" ; Times: 1
+	Query: "genus:aneides county:&#34;rutherford&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "cryptobranchus georgia" ; Times: 5
+	Query: "ambystoma mcintosh georgia" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "Ambystoma mabeei South Carolina" ; Times: 3
+	Query: "reptilia Georgia appling" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Belgium ; Times: 3
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 3
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Plestiodon reynoldsi" ; Times: 1
+	Query: "chamaeleo calyptratus" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+
+
+End of report.
