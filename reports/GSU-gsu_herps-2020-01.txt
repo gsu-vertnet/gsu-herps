@@ -1,0 +1,206 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 181
+Number of records retrieved in searches: 3736
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 172
+	Country: United Kingdom ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-29 ; Times: 16
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-06 ; Times: 6
+	Date: 2020-01-05 ; Times: 4
+	Date: 2020-01-04 ; Times: 6
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-18 ; Times: 6
+	Date: 2020-01-19 ; Times: 7
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 8
+	Date: 2020-01-30 ; Times: 31
+	Date: 2020-01-17 ; Times: 8
+	Date: 2020-01-10 ; Times: 8
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-23 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:capito genus:Rana" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:spurrelli genus:Agalychnis" ; Times: 1
+	Query: "specificepithet:virgatipes genus:Rana" ; Times: 1
+	Query: "specificepithet:dekayi genus:storeria institutioncode:GSU" ; Times: 3
+	Query: "elapsoides Georgia appling" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;Coffee&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "HERP-13731" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 5
+	Query: "specificepithet:dorsalis genus:Rhinophrynus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "specificepithet:andersonii genus:Hyla" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Lanier&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:mabeei genus:Ambystoma stateprovince:&#34;South Carolina&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo" ; Times: 1
+	Query: "storeria dekayi georgia" ; Times: 3
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "hasmedia:1 diploglossus" ; Times: 4
+	Query: "elapsoides Georgia tattnall" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "genus:drymarchon county:&#34;bacon&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:mabeei genus:Ambystoma county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34; year &gt;= 1975 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "Rana draytonii 14" ; Times: 4
+	Query: "specificepithet:laticeps genus:Plestiodon institutioncode:GSU" ; Times: 1
+	Query: "Rana draytonii 13" ; Times: 4
+	Query: "Rana draytonii 12" ; Times: 4
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "pseudotriton montanus georgia clarke" ; Times: 1
+	Query: "specificepithet:ruber genus:Pseudotriton county:&#34;Pulaski&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Anolis sagrei Georgia" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;South Carolina&#34; year &gt;= 1975 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "hemidactylium north carolina cherokee" ; Times: 1
+	Query: "eurycea aquatica Georgia" ; Times: 2
+	Query: "pretiosa Rana" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;Coffee&#34;" ; Times: 1
+	Query: "Plestiodon reynoldsi" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;atkinson&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 4
+	Query: "specificepithet:abacura genus:farancia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Rana draytonii 2014" ; Times: 6
+	Query: "Rana draytonii 2017" ; Times: 6
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "specificepithet:floridana genus:Pseudemys county:&#34;Tift&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "amphibia Georgia whitfield" ; Times: 1
+	Query: "amphibia Georgia echols" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "amphibia Georgia union" ; Times: 1
+	Query: "Rana draytonii 39" ; Times: 4
+	Query: "specificepithet:terrestris genus:bufo institutioncode:GSU" ; Times: 1
+	Query: "Rana draytonii 33" ; Times: 4
+	Query: "Rana draytonii 30" ; Times: 4
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;Georgia&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "reptilia Georgia echols" ; Times: 1
+	Query: "genus:drymarchon county:&#34;Coffee&#34; stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 2
+	Query: "locality:south carolina county:&#34;berkeley&#34; (cainhoy)" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "recordedby:Sean Barry" ; Times: 3
+	Query: "specificepithet:nigrita genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:temmincki genus:Macrochelys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;jeff davis&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana" ; Times: 1
+	Query: "hemidactylium Georgia" ; Times: 4
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34; year &gt;= 1975 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Tattnall&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:heckscheri genus:Rana" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34; year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "hemidactylium georgia" ; Times: 6
+	Query: "mabeei Georgia" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla" ; Times: 1
+	Query: "pseudotriton montanus georgia" ; Times: 4
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "HERP-15242" ; Times: 1
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Clemmys guttata mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1584 download events in this period)
+Total number of records downloaded: 509
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 6
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 8
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Plestiodon reynoldsi" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Sceloporus marmoratus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (NOT quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+
+
+End of report.
