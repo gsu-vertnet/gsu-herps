@@ -1,0 +1,486 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 636
+Number of records retrieved in searches: 12853
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 630
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Australia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 16
+	Date: 2020-04-05 ; Times: 41
+	Date: 2020-04-06 ; Times: 8
+	Date: 2020-04-22 ; Times: 42
+	Date: 2020-04-23 ; Times: 17
+	Date: 2020-04-20 ; Times: 12
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-01 ; Times: 222
+	Date: 2020-04-02 ; Times: 126
+	Date: 2020-04-25 ; Times: 8
+	Date: 2020-04-28 ; Times: 13
+	Date: 2020-04-29 ; Times: 10
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 37
+	Date: 2020-04-03 ; Times: 46
+	Date: 2020-04-19 ; Times: 6
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 5
+	Date: 2020-04-15 ; Times: 11
+	Date: 2020-04-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sauritus genus:Thamnophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Siren intermedia stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:striatula genus:Virginia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Apalone county:&#34;Jackson&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:valeriae genus:Virginia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "micrurus north carolina" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "genus:Drymarchon county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Plethodon serratus Georgia" ; Times: 1
+	Query: "specificepithet:feriarum genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;Laurens&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Miller&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Jeff Davis&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis county:&#34;baldwin&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "nerodia fasciata mississippi" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Wheeler&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:subrubrum genus:Kinosternon class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:odoratus genus:Sternotherus stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Long&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "genus:Diadophis county:&#34;Lee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "plestiodon laticeps jones" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;georgia&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Seminatrix county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "opheodrys aestivus mississippi" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Malaclemys class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 6
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Apalone ferox stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "Sarpy Wildlife Refuge" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:pituophis county:&#34;laurens&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Georgia&#34;" ; Times: 5
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Opheodrys county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Wayne&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Glynn&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "23208" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Stewart&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Drymarchon county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla county:&#34;Wilcox&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Mcintosh&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Clemmys class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "dade county georgia" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Telfair&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Emanuel&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "pituophis north carolina" ; Times: 1
+	Query: "specificepithet:serpentina genus:Chelydra stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:abacura genus:Farancia class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Plestiodon county:&#34;Treutlen&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "pituophis jefferson" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 5
+	Query: "class:Reptilia locality:Tortuguero stateprovince:&#34;Limon&#34; country:&#34;Costa Rica&#34; AND (NOT UF NOT CM NOT LACM)" ; Times: 1
+	Query: "genus:Opheodrys county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Cryptobranchus county:&#34;Monroe&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "genus:Rhadinaea class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "genus:Eurycea county:&#34;Catoosa&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:elapsoides genus:Lampropeltis class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:elapsoides genus:Lampropeltis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:striatula genus:Virginia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Deirochelys class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Rhadinaea North Carolina" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Rana virgatipes institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 6
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Fulton&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Trachemys class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sternotherus class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "CEMOPHORA COCCINEA COPEI" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:guttata genus:Elaphe county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "specificepithet:rigida genus:Regina county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:pholeter genus:amphiuma" ; Times: 3
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Tantilla county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Lampropeltis extenuata" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Drymarchon county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Cobb&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Collier&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:clamitans genus:Rana stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 7
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Fairfield&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon county:&#34;jackson&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:valeriae genus:Virginia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Seminatrix county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:elapsoides genus:Lampropeltis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Diadophis institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Opheodrys county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia county:&#34;Wayne&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:terrapene class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:rigida genus:Regina county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:elapsoides genus:Lampropeltis county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Micrurus class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Seminatrix county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Micrurus class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:elapsoides genus:Lampropeltis class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:baurii genus:Kinosternon class:Reptilia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 6
+	Query: "genus:Cemophora county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:rigida genus:Regina county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Agalychnis spurrelli" ; Times: 3
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Tantilla county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 6
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:coronata genus:Tantilla county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hendry&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Webster&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;McIntosh&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Desmognathus auriculatus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:elapsoides genus:Lampropeltis class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Mcintosh&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Seminatrix county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis county:&#34;Rabun&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "plethodon serratus stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:aestivus genus:Opheodrys county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Clemmys class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:baurii genus:Kinosternon class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM)" ; Times: 3
+	Query: "genus:Scaphiopus county:&#34;Baldwin&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 3
+	Query: "genus:Opheodrys county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Tantilla class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:spinifera genus:Apalone stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Seminatrix county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:apalachicolae genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:ruber genus:Pseudotriton stateprovince:&#34;Georgia&#34;" ; Times: 4
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis county:&#34;Dooly&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Toombs&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:aquatica genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Coluber constrictor Escambia County Florida" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia class:Reptilia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Opheodrys county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Dekalb&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:heckscheri genus:Rana stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:radix genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Chelydra class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:aestivus genus:Opheodrys county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:coronata genus:Tantilla county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 6
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sauritus genus:Thamnophis county:&#34;Bryan&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:elapsoides genus:Lampropeltis class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:guttolineata genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Micrurus class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:coronata genus:Tantilla county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:pituophis county:&#34;wheeler&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:ornata genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:rigida genus:Regina county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:baurii genus:Kinosternon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Tennessee&#34;" ; Times: 7
+	Query: "class:Reptilia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM) institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:aestivus genus:Opheodrys county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia county:&#34;Chatham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:ferox genus:Apalone stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys county:&#34;Effingham&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1171 download events in this period)
+Total number of records downloaded: 1077
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Australia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia county:&#34;Fairfield&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "mud turtle" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "Lampropeltis extenuata" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:imitator genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "cheloniidae mydas sex" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "specificepithet:welleri genus:Plethodon" ; Times: 1
+	Query: "specificepithet:ocoee genus:Desmognathus" ; Times: 1
+
+
+End of report.
