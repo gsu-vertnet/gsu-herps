@@ -1,0 +1,178 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 1336
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 53
+	Country: Sweden ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 6
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-05 ; Times: 5
+	Date: 2020-05-04 ; Times: 7
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "24183" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hendry&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plestiodon laticeps fulton georgia" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus institutioncode:GSU" ; Times: 3
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1951 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:wilderae genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "acris gryllus scott" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "sistrurus north carolina" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "sternotherus minor lee" ; Times: 1
+	Query: "specificepithet:heckscheri genus:Rana stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Glades&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Collier&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "sternotherus odoratus Jasper county" ; Times: 2
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "plestiodon laticeps georgia" ; Times: 4
+	Query: "specificepithet:elapsoides genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "tantilla Jefferson County" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ambystoma opacum tennessee" ; Times: 1
+	Query: "crotalus cooper" ; Times: 1
+	Query: "specificepithet:mimicus genus:Ophisaurus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:aquatica genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet: triangulum genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Notophthalmus viridescens Newton" ; Times: 1
+	Query: "crotalus powell" ; Times: 1
+	Query: "class:amphibia county:&#34;Mono&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "specificepithet:simus genus:heterodon stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Saint Johns&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:capito genus:Rana stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Manabi&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:masticophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "&#34;bufo marinus&#34; texas" ; Times: 1
+	Query: "class:amphibia county:&#34;mono&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1106 download events in this period)
+Total number of records downloaded: 5908
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 3
+	Country: Australia ; Times: 8
+	Country: Singapore ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 6
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-05 ; Times: 6
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "DESMOGNATHUS CONANTI" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Thamnophis brachystoma" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "PLETHODON MISSISSIPPI" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Notophthalmus viridescens 2012" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Notophthalmus viridescens 2011" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "sceloporus variabilis" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
