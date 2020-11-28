@@ -1,0 +1,97 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 797
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Sweden ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-18 ; Times: 3
+	Date: 2020-06-08 ; Times: 8
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-02 ; Times: 12
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-01 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:temminckii genus:Macrochelys stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:Pulchra genus:Graptemys county:&#34;Murray&#34; stateprovince:&#34;Georgia&#34;" ; Times: 6
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Seminatrix stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:floridana genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:malaclemys institutioncode:GSU" ; Times: 5
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:temminckii stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Rhadinaea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:capito stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; institutioncode:GSU" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 474 download events in this period)
+Total number of records downloaded: 273
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
