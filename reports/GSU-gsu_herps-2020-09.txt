@@ -1,0 +1,114 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 395
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Taiwan ; Times: 2
+	Country: India ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 13
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura county:&#34;Chambers&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma county:&#34;Liberty&#34; stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "lampropeltis beaufort north carolina" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; (extenuata)" ; Times: 4
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:nerodia institutioncode:GSU" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "cat institutioncode:GSU" ; Times: 2
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "ophisaurus mimicus" ; Times: 1
+	Query: "dog institutioncode:GSU" ; Times: 2
+	Query: "drowned institutioncode:GSU" ; Times: 2
+	Query: "genus:Trachemys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "blue tailed skink" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 1
+	Query: "genus:Ascaphus county:&#34;Siskiyou&#34;" ; Times: 1
+	Query: "GSU 1909" ; Times: 3
+	Query: "order:Testudines county:&#34;Dooly&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1956 year &lt;= 1960" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "Coluber constrictor paludicola" ; Times: 1
+	Query: "killed institutioncode:GSU" ; Times: 10
+	Query: "basement institutioncode:GSU" ; Times: 1
+	Query: "lampropeltis beaufort county" ; Times: 1
+	Query: "swimming pool institutioncode:GSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 976 download events in this period)
+Total number of records downloaded: 3674
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Callisaurus draconoides rhodostictus" ; Times: 2
+	Query: "acris" ; Times: 1
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+
+
+End of report.
