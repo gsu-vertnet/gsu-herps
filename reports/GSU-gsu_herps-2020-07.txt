@@ -1,0 +1,175 @@
+Report for Institution Code GSU, Resource gsu_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 8344
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 173
+	Country: Brazil ; Times: 1
+	Country: Finland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 3
+	Date: 2020-07-08 ; Times: 12
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 8
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 3
+	Date: 2020-07-29 ; Times: 24
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-23 ; Times: 5
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-30 ; Times: 87
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea longicauda" ; Times: 6
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Plethodon variolatus" ; Times: 2
+	Query: "Pseudacris brimleyi GSU" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon institutioncode:GSU" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 2
+	Query: "Desmognathus conanti" ; Times: 3
+	Query: "Ophisaurus attenuatus texas Kenedy" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 2
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 2
+	Query: "Hyla avivoca GSU" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 5
+	Query: "Desmognathus brimleyorum" ; Times: 2
+	Query: "sternotherus peltifer" ; Times: 3
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:Sonora institutioncode:GSU" ; Times: 1
+	Query: "Plethodon ocmulgee" ; Times: 2
+	Query: "Eurycea guttolineata" ; Times: 3
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Plethodon savannah" ; Times: 3
+	Query: "specificepithet:compressus genus:Ophisaurus stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 12
+	Query: "Desmognathus aeneus" ; Times: 4
+	Query: "specificepithet:Pulchra genus:Graptemys county:&#34;Murray&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus institutioncode:GSU" ; Times: 1
+	Query: "specificepithet:imitator genus:desmognathus institutioncode:GSU" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 5
+	Query: "genus:Desmognathus county:&#34;Jasper&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:horridus county:&#34;berkshire&#34;" ; Times: 6
+	Query: "Eurycea cirrigera" ; Times: 6
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Georgia&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 2
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "county:&#34;Stephens&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "M-16350" ; Times: 2
+	Query: "gbifdatasetid:28573c0a-b833-41b1-9999-56c6b9bce519" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "roe 282" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 2
+	Query: "Pseudotriton montanus" ; Times: 3
+	Query: "genus:micrurus county:&#34;monroe&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon institutioncode:GSU" ; Times: 1
+	Query: "Plethodon chattahoochee" ; Times: 1
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Georgia&#34; institutioncode:GSU" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 2
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "Desmognathus apalachicolae" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 5
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Georgia&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Cryptobranchus Tennessee" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "ophisaurus texas kenedy" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 2
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "specificepithet:elapsoides genus:Lampropeltis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 3
+	Query: "genus:necturus institutioncode:GSU" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "specificepithet:marginatus genus:Stereochilus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Apalone county:&#34;crawford&#34;" ; Times: 2
+	Query: "Pseudacris brachyphona GSU" ; Times: 1
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Hyla gratiosa" ; Times: 4
+	Query: "Plethodon serratus" ; Times: 5
+	Query: "Pituophis stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Hyla gratiosa GSU" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 5
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Pseudacris brimleyi" ; Times: 2
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Stereochilus marginatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 940 download events in this period)
+Total number of records downloaded: 7976
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+
+
+End of report.
